@@ -1,0 +1,19 @@
+# Obsidian
+.obsidian/
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Private/Foundation notes (keep these local)
+FOUNDER/Notes/
+FOUNDER/Chats/
+
+# Optional: Exclude large asset files if you store them elsewhere
+# Assets/*.png
+# Assets/*.jpg
+# Assets/*.mp4
