@@ -1,7 +1,7 @@
 ---
 id: WEB-009
 title: Build Client Portal Dashboard
-status: todo
+status: done
 priority: P0
 created_at: 2026-02-09T12:00:00Z
 created_by: "@FOUNDER"
