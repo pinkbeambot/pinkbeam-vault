@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "028ff8302341a5f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f43c15418f19e0f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7d01e9d16658569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "services/web/Tasks/WEB-012-quote-backend-crm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WEB-012-quote-backend-crm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ca4c7be108b6509",
+    "type": "split",
+    "children": [
+      {
+        "id": "485d839efeace763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea3ee53f15c68136",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db5e2b4bd9c93c7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c2acfcce08ec1edd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 458.5
+  },
+  "right": {
+    "id": "32a60e108bc0d108",
+    "type": "split",
+    "children": [
+      {
+        "id": "60496b4138e8044c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89e92401302cfe32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "services/web/Tasks/WEB-012-quote-backend-crm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for WEB-012-quote-backend-crm"
+            }
+          },
+          {
+            "id": "5bda06220cb25688",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "services/web/Tasks/WEB-012-quote-backend-crm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from WEB-012-quote-backend-crm"
+            }
+          },
+          {
+            "id": "bdaf54f13be23215",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "285d471d9b01a252",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "baa66a7bba26422d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "services/web/Tasks/WEB-012-quote-backend-crm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of WEB-012-quote-backend-crm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d7d01e9d16658569",
+  "lastOpenFiles": [
+    "services/web/Tasks/WEB-010-admin-dashboard.md",
+    "services/web/Tasks/WEB-009-client-portal-dashboard.md",
+    "services/agents/Tasks/TASK-015-build-interactive-demo.md",
+    "services/agents/Tasks/TASK-016-build-roi-calculator.md",
+    "services/agents/Tasks/TASK-005-setup-asset-pipeline.md",
+    "services/agents/Tasks/TASK-002-create-brand-identity.md",
+    "services/web/Tasks/WEB-007-database-infrastructure.md",
+    "services/web/Tasks/WEB-006-blog-system.md",
+    "services/web/Tasks/WEB-008-authentication-system.md",
+    "services/web/Tasks/WEB-005-quote-request-system.md",
+    "services/web/Tasks/WEB-003-pricing-page.md",
+    "services/web/Tasks/TASK-004-portfolio-case-studies.md",
+    "services/web/Tasks/TASK-003-pricing-page-tiers.md",
+    "services/web/Tasks/TASK-002-services-pages.md",
+    "services/web/Tasks/TASK-001-landing-page-design-build.md",
+    "services/web/Tasks/WEB-001-marketing-landing-page.md",
+    "services/home/Tasks/HOME-016-setup-analytics-tracking.md",
+    "services/home/Tasks/HOME-015-seo-metadata-implementation.md",
+    "services/home/Tasks/HOME-014-create-platform-dashboard.md",
+    "services/home/Tasks/HOME-017-cross-service-navigation.md",
+    "services/home/Tasks/HOME-018-testing-qa.md",
+    "services/home/Tasks/HOME-010-database-schema.md",
+    "services/home/Tasks/HOME-013-add-page-animations.md",
+    "services/home/Tasks/HOME-006-create-service-layouts.md",
+    "services/home/Tasks/HOME-007-create-stub-pages.md",
+    "services/home/Tasks/HOME-008-build-services-dropdown.md",
+    "services/home/Tasks",
+    "services/web/Tasks",
+    "services/solutions/Tasks",
+    "services/labs/Tasks",
+    "Assets/Brand/logo/refined/size-tests/lightning-b-64px.png",
+    "Assets/Brand/logo/refined/size-tests/lightning-b-512px.png",
+    "Assets/Brand/logo/refined/size-tests/lightning-b-32px.png",
+    "Assets/Brand/logo/refined/size-tests/lightning-b-16px.png",
+    "Assets/Brand/logo/refined/size-tests/arrow-beams-64px.png",
+    "Assets/Brand/logo/refined/size-tests/arrow-beams-512px.png",
+    "Assets/Brand/logo/refined/size-tests/arrow-beams-32px.png",
+    "Assets/Brand/logo/refined/size-tests/arrow-beams-16px.png",
+    "Assets/Brand/logo/refined/size-tests",
+    "Assets/Brand/logo/refined/lightning-b-stacked-pinkbeamai-fullcolor.png",
+    "Assets/Brand/logo/refined/lightning-b-stacked-pinkbeam-monolight.png",
+    "Assets/Brand/logo/refined",
+    "Assets/Brand/logo/process-logos.sh",
+    "Assets/Brand/logo/final",
+    "Assets/Brand/logo/concepts",
+    "Assets/Brand/logo"
+  ]
+}

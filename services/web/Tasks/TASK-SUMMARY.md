@@ -15,7 +15,7 @@ category: project-management
 
 ## 📊 Task Overview
 
-### ✅ Completed (9/25)
+### ✅ Completed (10/25)
 | ID | Task | Status | Priority | Est. Hours | Actual Hours | Assignee |
 |-----|------|--------|----------|------------|--------------|----------|
 | WEB-001 | Marketing Landing Page | **done** | P0 | 16 | 6 | ENG-FE |
@@ -27,12 +27,13 @@ category: project-management
 | WEB-008 | Authentication System | **done** | P0 | 16 | 4 | ENG-BE |
 | WEB-009 | Client Portal Dashboard | **done** | P0 | 24 | 6 | ENG-FE |
 | WEB-010 | Admin Dashboard | **done** | P0 | 24 | 6 | ENG-FE |
+| WEB-011 | Core REST API | **done** | P0 | 20 | 8 | ENG-BE |
 
-### 📝 Remaining (16/25)
+### 📝 Remaining (15/25)
 | ID | Task | Status | Priority | Est. Hours | Assignee |
 |-----|------|--------|----------|------------|----------|
 | WEB-004 | Portfolio & Case Studies | **blocked** | P1 | 16 | ENG-FE |
-| WEB-011 | Core REST API | todo | P0 | 20 | ENG-BE |
+| WEB-012 | Quote Backend & CRM | todo | P1 | 12 | ENG-BE |
 | WEB-012 | Quote Backend & CRM | todo | P1 | 12 | ENG-BE |
 | WEB-011 | Core REST API | todo | P0 | 20 | ENG-BE |
 | WEB-012 | Quote Backend & CRM | todo | P1 | 12 | ENG-BE |

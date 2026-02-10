@@ -585,19 +585,19 @@ The `TASKS.md` file serves as the master index. Keep it updated.
 | Phase              | ID       | Title                                                                             | Status          | Worker    | Est Hours | Dependencies       |
 | :----------------- | :------- | :-------------------------------------------------------------------------------- | :-------------- | :-------- | --------: | :----------------- |
 | **🟢 AI PARALLEL** | TASK-002 | [[Tasks/TASK-002-create-brand-identity\|Create Brand Identity System]]            | **in-progress** | **LUMEN** |         8 | None               |
-| **🟢 AI PARALLEL** | TASK-010 | [[Tasks/archive/TASK-010-write-homepage-copy\|Write Homepage Copy]]               | **completed**   | **CMO**   |         6 | None ✓ 2026-02-07  |
-| **🟡 FOUNDATION**  | TASK-001 | [[Tasks/archive/TASK-001-finalize-tech-stack\|Finalize Website Tech Stack]]       | **completed**   | **CEO**   |         4 | ✓ Approved 2026-02-07 |
-| **🟡 FOUNDATION**  | TASK-003 | [[Tasks/archive/TASK-003-init-website-repo\|Initialize Website Project Repo]]     | **completed**   | **ENG-FE**|         4 | TASK-001 ✓ Verified 2026-02-07 |
-| **🟡 FOUNDATION**  | TASK-004 | [[Tasks/archive/TASK-004-setup-design-system\|Set Up Design System]]              | **completed**   | **ENG-FE**|         8 | TASK-001, 002, 003 ✓ |
+| **🟢 AI PARALLEL** | TASK-010 | [[TASK-010-write-homepage-copy\|Write Homepage Copy]]               | **completed**   | **CMO**   |         6 | None ✓ 2026-02-07  |
+| **🟡 FOUNDATION**  | TASK-001 | [[TASK-001-finalize-tech-stack\|Finalize Website Tech Stack]]       | **completed**   | **CEO**   |         4 | ✓ Approved 2026-02-07 |
+| **🟡 FOUNDATION**  | TASK-003 | [[TASK-003-init-website-repo\|Initialize Website Project Repo]]     | **completed**   | **ENG-FE**|         4 | TASK-001 ✓ Verified 2026-02-07 |
+| **🟡 FOUNDATION**  | TASK-004 | [[TASK-004-setup-design-system\|Set Up Design System]]              | **completed**   | **ENG-FE**|         8 | TASK-001, 002, 003 ✓ |
 | **🟡 FOUNDATION**  | TASK-005 | [[Tasks/TASK-005-setup-asset-pipeline\|Set Up Asset Pipeline]]                    | todo            | ENG-BE    |         6 | TASK-001, 003      |
 | **🟠 VISUAL**      | TASK-006 | [[Tasks/TASK-006-create-hero-illustration\|Create Hero Illustration]]             | todo            | LUMEN     |         6 | TASK-002, 005      |
 | **🟠 VISUAL**      | TASK-007 | [[Tasks/TASK-007-create-marketing-illustrations\|Create Marketing Illustrations]] | todo            | LUMEN     |        16 | TASK-002, 005, 006 |
 | **🟠 VISUAL**      | TASK-008 | [[Tasks/TASK-008-create-iconography\|Create Iconography System]]                  | todo            | LUMEN     |        12 | TASK-002, 005      |
 | **🟠 VISUAL**      | TASK-009 | [[Tasks/TASK-009-produce-explainer-video\|Produce Explainer Video]]               | todo            | FLUX      |        12 | TASK-002, 005, 006 |
-| **🔴 CORE PAGES**  | TASK-011 | [[Tasks/archive/TASK-011-build-global-components\|Build Global Components]]       | **completed**   | **ENG-FE**|         8 | TASK-003, 004, 008 ✓ |
-| **🔴 CORE PAGES**  | TASK-012 | [[Tasks/archive/TASK-012-build-homepage\|Build Homepage]]                         | **completed**   | **ENG-FE**|        24 | All foundation ✓   |
-| **🔴 CORE PAGES**  | TASK-013 | [[Tasks/archive/TASK-013-build-product-pages\|Build Product Pages]]               | **completed**   | **ENG-FE**|        16 | TASK-011, 012 ✓    |
-| **🔴 CORE PAGES**  | TASK-014 | [[Tasks/archive/TASK-014-build-pricing-page\|Build Pricing Page]]                 | **completed**   | **ENG-FE**|        12 | TASK-011, 012, 013 ✓ |
+| **🔴 CORE PAGES**  | TASK-011 | [[TASK-011-build-global-components\|Build Global Components]]       | **completed**   | **ENG-FE**|         8 | TASK-003, 004, 008 ✓ |
+| **🔴 CORE PAGES**  | TASK-012 | [[TASK-012-build-homepage\|Build Homepage]]                         | **completed**   | **ENG-FE**|        24 | All foundation ✓   |
+| **🔴 CORE PAGES**  | TASK-013 | [[TASK-013-build-product-pages\|Build Product Pages]]               | **completed**   | **ENG-FE**|        16 | TASK-011, 012 ✓    |
+| **🔴 CORE PAGES**  | TASK-014 | [[TASK-014-build-pricing-page\|Build Pricing Page]]                 | **completed**   | **ENG-FE**|        12 | TASK-011, 012, 013 ✓ |
 
 ---
 
@@ -653,8 +653,8 @@ Tasks ready to become active when current task completes. **Ordered by dependenc
 | ID | Title | Completed | Verified By |
 |:---|:---|:---|:---|
 | TASK-001 | [[Tasks/TASK-001-finalize-tech-stack\|Finalize Website Tech Stack]] | 2026-02-07 | CEO |
-| TASK-003 | [[Tasks/archive/TASK-003-init-website-repo\|Initialize Website Project Repo]] | 2026-02-07 | FOUNDER |
-| TASK-010 | [[Tasks/archive/TASK-010-write-homepage-copy\|Write Homepage Copy]] | 2026-02-07 | CMO |
+| TASK-003 | [[TASK-003-init-website-repo\|Initialize Website Project Repo]] | 2026-02-07 | FOUNDER |
+| TASK-010 | [[TASK-010-write-homepage-copy\|Write Homepage Copy]] | 2026-02-07 | CMO |
 
 ---
 
