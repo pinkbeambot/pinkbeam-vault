@@ -15,7 +15,7 @@ category: project-management
 
 ## 📊 Task Overview
 
-### ✅ Completed (7/25)
+### ✅ Completed (9/25)
 | ID | Task | Status | Priority | Est. Hours | Actual Hours | Assignee |
 |-----|------|--------|----------|------------|--------------|----------|
 | WEB-001 | Marketing Landing Page | **done** | P0 | 16 | 6 | ENG-FE |
@@ -26,12 +26,14 @@ category: project-management
 | WEB-007 | Database & Backend Infrastructure | **done** | P0 | 12 | 4 | ENG-BE |
 | WEB-008 | Authentication System | **done** | P0 | 16 | 4 | ENG-BE |
 | WEB-009 | Client Portal Dashboard | **done** | P0 | 24 | 6 | ENG-FE |
+| WEB-010 | Admin Dashboard | **done** | P0 | 24 | 6 | ENG-FE |
 
-### 📝 Remaining (17/25)
+### 📝 Remaining (16/25)
 | ID | Task | Status | Priority | Est. Hours | Assignee |
 |-----|------|--------|----------|------------|----------|
 | WEB-004 | Portfolio & Case Studies | **blocked** | P1 | 16 | ENG-FE |
-| WEB-010 | Admin Dashboard | todo | P0 | 24 | ENG-FE |
+| WEB-011 | Core REST API | todo | P0 | 20 | ENG-BE |
+| WEB-012 | Quote Backend & CRM | todo | P1 | 12 | ENG-BE |
 | WEB-011 | Core REST API | todo | P0 | 20 | ENG-BE |
 | WEB-012 | Quote Backend & CRM | todo | P1 | 12 | ENG-BE |
 | WEB-013 | Support Ticket System | todo | P1 | 16 | ENG-FE |
