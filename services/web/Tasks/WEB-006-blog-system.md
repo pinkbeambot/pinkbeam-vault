@@ -1,7 +1,7 @@
 ---
 id: WEB-006
 title: Build Blog & Content Marketing System
-status: todo
+status: done
 priority: P1
 created_at: 2026-02-09T12:00:00Z
 created_by: "@FOUNDER"
