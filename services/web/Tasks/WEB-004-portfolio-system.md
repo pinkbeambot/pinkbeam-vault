@@ -1,7 +1,7 @@
 ---
 id: WEB-004
 title: Build Portfolio & Case Studies System
-status: todo
+status: blocked
 priority: P1
 created_at: 2026-02-09T12:00:00Z
 created_by: "@FOUNDER"

@@ -15,18 +15,19 @@ category: project-management
 
 ## 📊 Task Overview
 
-### ✅ Completed (2/25)
+### ✅ Completed (4/25)
 | ID | Task | Status | Priority | Est. Hours | Actual Hours | Assignee |
 |-----|------|--------|----------|------------|--------------|----------|
 | WEB-001 | Marketing Landing Page | **done** | P0 | 16 | 6 | ENG-FE |
 | WEB-002 | Services Detail Pages | **done** | P0 | 20 | 4 | ENG-FE |
+| WEB-003 | Pricing Page with Calculator | **done** | P0 | 12 | 3 | ENG-FE |
+| WEB-005 | Quote Request System | **done** | P0 | 12 | 3 | ENG-FE |
 
-### 📝 Remaining (23/25)
+### 📝 Remaining (21/25)
 | ID | Task | Status | Priority | Est. Hours | Assignee |
 |-----|------|--------|----------|------------|----------|
-| WEB-003 | Pricing Page with Calculator | todo | P0 | 12 | ENG-FE |
 | WEB-004 | Portfolio & Case Studies | **blocked** | P1 | 16 | ENG-FE |
-| WEB-005 | Quote Request System | todo | P0 | 12 | ENG-FE |
+| WEB-006 | Blog & Content System | todo | P1 | 16 | ENG-FE |
 | WEB-006 | Blog & Content System | todo | P1 | 16 | ENG-FE |
 | WEB-007 | Database & Backend Infrastructure | todo | P0 | 12 | ENG-BE |
 | WEB-008 | Authentication System | todo | P0 | 16 | ENG-BE |
