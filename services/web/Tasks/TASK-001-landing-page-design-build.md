@@ -101,21 +101,21 @@ The landing page is the primary entry point for potential clients. It needs to c
   - [ ] `[2.4c]` Primary and secondary CTAs
 
 ### Phase 3: Polish & Responsive
-- [ ] `[3.1]` Implement responsive design:
-  - [ ] `[3.1a]` Mobile navigation (hamburger menu)
-  - [ ] `[3.1b]` Responsive grid adjustments
-  - [ ] `[3.1c]` Typography scaling
-  - [ ] `[3.1d]` Touch-friendly buttons
-- [ ] `[3.2]` Add animations and interactions:
-  - [ ] `[3.2a]` Scroll reveal animations
-  - [ ] `[3.2b]` Hover states on cards and buttons
-  - [ ] `[3.2c]` Loading states
-  - [ ] `[3.2d]` Smooth scrolling
+- [x] `[3.1]` Implement responsive design:
+  - [x] `[3.1a]` Mobile navigation (hamburger menu) - uses shared Navigation
+  - [x] `[3.1b]` Responsive grid adjustments
+  - [x] `[3.1c]` Typography scaling
+  - [x] `[3.1d]` Touch-friendly buttons
+- [x] `[3.2]` Add animations and interactions:
+  - [x] `[3.2a]` Scroll reveal animations - FadeIn on features, pricing, CTA
+  - [x] `[3.2b]` Hover states on cards and buttons
+  - [x] `[3.2c]` Loading states
+  - [x] `[3.2d]` Smooth scrolling
 - [ ] `[3.3]` Accessibility pass:
-  - [ ] `[3.3a]` ARIA labels
+  - [x] `[3.3a]` ARIA labels - Buttons have sr-only text
   - [ ] `[3.3b]` Keyboard navigation
-  - [ ] `[3.3c]` Color contrast verification
-  - [ ] `[3.3d]` Focus states
+  - [x] `[3.3c]` Color contrast verification
+  - [x] `[3.3d]` Focus states
 
 ---
 

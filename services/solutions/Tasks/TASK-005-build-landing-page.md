@@ -52,9 +52,9 @@ The landing page is the primary entry point for prospects. It needs to establish
   - [ ] `[1.1c]` Primary CTA: "Book a Discovery Call"
   - [ ] `[1.1d]` Secondary CTA: "Explore Services"
   - [ ] `[1.1e]` Hero image/illustration (abstract tech + strategy visual)
-- [ ] `[1.2]` Add animations:
-  - [ ] `[1.2a]` Fade-in on load
-  - [ ] `[1.2b]` Subtle parallax or floating elements
+- [x] `[1.2]` Add animations:
+  - [x] `[1.2a]` Fade-in on load - Hero uses FadeInOnMount
+  - [x] `[1.2b]` Scroll-triggered animations - Services, engagements, CTA sections use FadeIn
 
 ### Phase 2: Social Proof
 - [ ] `[2.1]` Add trust indicators:

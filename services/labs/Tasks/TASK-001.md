@@ -90,11 +90,11 @@ Key inspirations: Thoughtbot, Toptal, Carbon Five, Revelry
   - [ ] `[F2f]` FAQ accordion
   - [ ] `[F2g]` CTA sections with gradient buttons
   - [ ] `[F2h]` Footer with newsletter signup
-- [ ] `[F3]` Animations & interactions:
-  - [ ] `[F3a]` Scroll-triggered fade-ins
-  - [ ] `[F3b]` Button hover states
-  - [ ] `[F3c]` Mobile menu animation
-  - [ ] `[F3d]` Gradient text animations
+- [x] `[F3]` Animations & interactions:
+  - [x] `[F3a]` Scroll-triggered fade-ins - Implemented on capabilities, process steps, CTA
+  - [x] `[F3b]` Button hover states
+  - [x] `[F3c]` Mobile menu animation - Uses shared Navigation
+  - [x] `[F3d]` Gradient text animations
 - [ ] `[F4]` Performance optimization:
   - [ ] `[F4a]` Image optimization (Next/Image)
   - [ ] `[F4b]` Font optimization (next/font)

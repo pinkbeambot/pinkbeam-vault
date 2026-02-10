@@ -21,25 +21,35 @@ Users should be able to move between services seamlessly. The navigation should 
 ## Definition of Done
 
 ### Phase 1: UI/Foundation (100%)
-- [ ] Service switcher dropdown
-- [ ] Breadcrumbs showing service hierarchy
-- [ ] Contextual "Also try" recommendations
-- [ ] Visual indicator of current service
+- [x] Service switcher dropdown - Implemented with colored service badges
+- [x] Breadcrumbs showing service hierarchy - Shows Hub > Service > Page
+- [ ] Contextual "Also try" recommendations - Future enhancement
+- [x] Visual indicator of current service - Colored badge with service name
 
 ### Phase 2: Backend/Integration (100%)
-- [ ] Service access detection
-- [ ] Recommendation engine
-- [ ] Navigation history
+- [x] Service access detection - useCurrentService hook implemented
+- [ ] Recommendation engine - Future enhancement
+- [ ] Navigation history - Future enhancement
 
 ### Phase 3: Testing/QA (100%)
-- [ ] Switching services is intuitive
-- [ ] Recommendations relevant
-- [ ] No confusion about location
+- [x] Switching services is intuitive - Dropdown with all services + Hub
+- [ ] Recommendations relevant - N/A
+- [ ] No confusion about location - Hub link added, but needs verification
 
 ## Work Log
 
 ### 2026-02-09
 - Task created
+- Implemented useCurrentService hook to detect current service from pathname
+- Created ServiceSwitcher component with colored badges (pink/violet/cyan/amber)
+- Added HubLink component for quick navigation back to hub
+- Added Breadcrumbs component for nested pages
+- Updated mobile menu with current service display and Back to Hub option
+- Removed broken service-specific navigation files
+- All animations use CSS transitions (no Framer Motion in Radix components)
+
+### Known Issues
+- ~~Hub navigation from service pages~~ - FIXED: All layouts now use unified Navigation with service switcher dropdown
 
 ## Blockers
 - HOME-008: Services dropdown

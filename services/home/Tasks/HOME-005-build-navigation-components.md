@@ -51,14 +51,17 @@ Each service needs its own navbar (showing "Agents", "Web", etc.) but they shoul
 
 ### 2026-02-09
 - Task created
-- Verified existing Navigation.tsx (hub) and AgentsNavigation.tsx
-- Created WebNavigation component with service-specific links
-- Created LabsNavigation component with service-specific links
-- Created SolutionsNavigation component with service-specific links
-- Updated (web)/layout.tsx to use WebNavigation
-- Updated (labs)/layout.tsx to use LabsNavigation
-- Updated (solutions)/layout.tsx to use SolutionsNavigation
-- Fixed existing build errors in dashboard/briefs pages
+- Initial approach: Created service-specific navigation components with Framer Motion
+  - WebNavigation, LabsNavigation, SolutionsNavigation with animations
+  - Encountered hydration bugs with Framer Motion + Radix Sheet
+- Revised approach: Unified navigation with service detection
+  - Created single Navigation.tsx with useCurrentService hook
+  - Service badge shows colored indicator (pink/violet/cyan/amber)
+  - Service switcher dropdown for cross-service navigation
+  - Hub link for quick return to platform home
+  - All animations use CSS only (no hydration issues)
+- Updated all service layouts to use unified Navigation
+- Deleted problematic service-specific navigation files
 - Build verified successful
 
 ## Blockers
